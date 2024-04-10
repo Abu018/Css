@@ -1,0 +1,55 @@
+.main-plan {
+    margin: 60px 0px 0px 0px;
+    padding: 0px;
+    width: 80%;
+    border: 3px solid orange;
+    background-color: rgb(212, 227, 212);
+}
+
+.link {
+    text-align: center;
+    color: black;
+    text-decoration: none;
+
+}
+
+.plan-second__heading {
+    text-align: center;
+    color: Gray;
+}
+
+.link p {
+    margin: 20px;
+    /* padding: 5px 5px 5px 5px; */
+    border: 2px solid black;
+}
+
+.main-plan01 {
+    margin: 20px 0px 0px 0px;
+    padding: 0px;
+    width: 80%;
+    border: 3px solid rgb(136, 189, 136);
+
+    background-color: rgb(207, 224, 231);
+}
+
+.main-plan03 {
+    margin: 20px 0px 0px 0px;
+    padding: 0px;
+    width: 80%;
+    border: 3px solid rgb(136, 189, 136);
+    background-color: green;
+    color: white
+}
+
+.link01 {
+    text-align: center;
+    color: white;
+    text-decoration: none;
+
+}
+
+.background {
+    background: url();
+
+}
